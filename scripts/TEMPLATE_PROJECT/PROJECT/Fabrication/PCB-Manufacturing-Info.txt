@@ -1,0 +1,36 @@
+THICKNESS = ..mm
+
+-----------------------------------------
+
+SIZE = ..mm x ..mm
+NUMBER OF LAYERS = ..
+MATERIAL = Default (no special requirements)
+
+-----------------------------------------
+
+MIN TRACK WIDTH = ..mm (..mil)
+MIN TRACK SPACING = ..mm (..mil) 
+MIN HOLE SIZE = ..mm
+
+-----------------------------------------
+
+OUTER COPPER THICKNESS = ..oz
+INNER COPPER THICKNESS = ..oz
+VIAS PROCESS = TENTED (NOT PLUGGED!)
+
+-----------------------------------------
+
+SOLDERMASK = green
+SILKSCREEN = white
+SURFACE FINISH = Immersion Gold (ENIG)
+
+-----------------------------------------
+
+OTHER:
+
+NO IMPEDANCE CONTROL
+NO CUSTOM STACKUP (Just meet inner 1oz and outer 1oz copper)
+NO VIA PLUGGING (Only tenting)
+NO VIA IN PAD
+
+-----------------------------------------
